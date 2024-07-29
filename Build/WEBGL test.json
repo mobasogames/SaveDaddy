@@ -1,0 +1,16 @@
+{
+"companyName": "Mobaso",
+"productName": "Save Daddy",
+"productVersion": "1.0.23",
+"dataUrl": "WEBGL test.data.unityweb",
+"wasmCodeUrl": "WEBGL test.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
